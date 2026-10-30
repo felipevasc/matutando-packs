@@ -1,6 +1,6 @@
-# pituibinha-packs
+# matutando-packs
 
-Pacotes de conteúdo que o app **Pituibinha** baixa sob demanda: artes, modelos, músicas e fases de jogos que não vêm no app instalado.
+Pacotes de conteúdo que o app **Matutando** baixa sob demanda: artes, modelos, músicas e fases de jogos que não vêm no app instalado.
 
 Este repositório só serve as **Releases**. Nelas ficam:
 
@@ -18,6 +18,6 @@ Os pacotes são gerados pelo script `tools/packs/build_packs.py` do projeto do j
 
 ## 🔒 Política de Privacidade
 
-A política de privacidade oficial do aplicativo **Pituibinha** está disponível em:
+A política de privacidade oficial do aplicativo **Matutando** está disponível em:
 - [Visualizar Política de Privacidade (Markdown)](PRIVACY.md)
 - [Visualizar Política de Privacidade (HTML)](politica_de_privacidade.html)

@@ -1,13 +1,13 @@
-# Política de Privacidade — Pituibinha
+# Política de Privacidade — Matutando
 *Última atualização: 29 de outubro de 2026*
 
-Esta política explica quais informações o aplicativo **Pituibinha** trata. Ao usar o app, você concorda com os termos descritos abaixo.
+Esta política explica quais informações o aplicativo **Matutando** trata. Ao usar o app, você concorda com os termos descritos abaixo.
 
 ## 1. Quem é responsável
-O app é desenvolvido de forma independente por **felipevasc**. Em caso de dúvidas ou solicitações, você pode abrir uma issue pública neste repositório: [Issues](https://github.com/felipevasc/pituibinha-packs/issues).
+O app é desenvolvido de forma independente por **felipevasc**. Em caso de dúvidas ou solicitações, você pode abrir uma issue pública neste repositório: [Issues](https://github.com/felipevasc/matutando-packs/issues).
 
 ## 2. Dados que o app NÃO coleta
-O Pituibinha não coleta nome, e-mail, telefone, localização precisa, contatos, fotos, áudio de microfone, identificadores de publicidade nem dados de telemetria ou analytics. O jogo **não exibe anúncios** e **não contém compras no aplicativo (IAP)**.
+O Matutando não coleta nome, e-mail, telefone, localização precisa, contatos, fotos, áudio de microfone, identificadores de publicidade nem dados de telemetria ou analytics. O jogo **não exibe anúncios** e **não contém compras no aplicativo (IAP)**.
 
 ## 3. Dados salvos no seu aparelho
 Todo o seu progresso no jogo (fases concluídas, estrelas, pontuações de habilidades, configurações de áudio e personalização de personagens) fica armazenado exclusivamente na memória interna do seu próprio dispositivo (`user://`). Esses dados não são transferidos para nós. Caso o aplicativo seja desinstalado, esses dados são apagados pelo próprio sistema operacional.
