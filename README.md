@@ -13,3 +13,11 @@ Os pacotes **não têm código**, só recursos. O código de todos os jogos já 
 O app busca sempre `releases/latest/download/catalog.json`. As versões antigas ficam nas Releases anteriores, para quem ainda usa um app antigo.
 
 Os pacotes são gerados pelo script `tools/packs/build_packs.py` do projeto do jogo.
+
+---
+
+## 🔒 Política de Privacidade
+
+A política de privacidade oficial do aplicativo **Pituibinha** está disponível em:
+- [Visualizar Política de Privacidade (Markdown)](PRIVACY.md)
+- [Visualizar Política de Privacidade (HTML)](politica_de_privacidade.html)
